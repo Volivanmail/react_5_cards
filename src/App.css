@@ -1,0 +1,18 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: flex-start;
+  width: 75%;
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  width: 18rem;
+  margin: 20px 20px
+}
+
+.card-bottom {
+  margin-bottom: 10px;
+}
